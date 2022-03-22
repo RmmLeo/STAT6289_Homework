@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Explainer}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Model and Dataset}{2}{0}{1}
+\beamer@sectionintoc {2}{Analysis Method}{2}{0}{2}
+\beamer@subsectionintoc {2}{1}{Salience Analysis}{2}{0}{2}
+\beamer@subsectionintoc {2}{2}{Top K Features Mask}{2}{0}{2}
+\beamer@sectionintoc {3}{Result}{2}{0}{3}
+\beamer@subsectionintoc {3}{1}{Accuracy Tendency}{2}{0}{3}
