@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.1.21)  22 MAR 2022 19:03
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.1.21)  22 MAR 2022 19:16
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/RMM/STAT-6289/Midterm Project/mid_pre.tex"
-(c:/RMM/STAT-6289/Midterm Project/mid_pre.tex
+**"c:/RMM/STAT-6289/Midterm Project/TexFile/mid_pre.tex"
+(c:/RMM/STAT-6289/Midterm Project/TexFile/mid_pre.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-12> (c:/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2021/10/18 v3.64 A class for typesetting presentations
@@ -534,6 +534,12 @@ LaTeX Warning: Label `fig:MaskedExample' multiply defined.
 
 LaTeX Warning: Label `fig:MaskedExample' multiply defined.
 
+
+LaTeX Warning: Label `fig:MaskedExample' multiply defined.
+
+
+LaTeX Warning: Label `fig:MaskedExample' multiply defined.
+
 )
 \openout1 = `mid_pre.aux'.
 
@@ -722,11 +728,22 @@ Overfull \vbox (28.8414pt too high) detected at line 123
 [8
 
 ]
+File: Code1.png Graphic file (type bmp)
+<Code1.png>
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <9> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 129.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 134.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 129.
- [9
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 134.
+
+Overfull \vbox (12.28639pt too high) detected at line 134
+ []
+
+[9
+
+]
+File: Code2.png Graphic file (type bmp)
+<Code2.png>
+ [10
 
 ]
 \tf@nav=\write6
@@ -746,12 +763,12 @@ Package rerunfilecheck Info: File `mid_pre.out' has not changed.
 (rerunfilecheck)             Checksum: 3DFCB495D961D77E357907346578CDCF;998.
  ) 
 Here is how much of TeX's memory you used:
- 21637 strings out of 478137
- 425666 string characters out of 5853474
- 696448 words of memory out of 5000000
- 41776 multiletter control sequences out of 15000+600000
+ 21656 strings out of 478137
+ 425925 string characters out of 5853474
+ 696545 words of memory out of 5000000
+ 41792 multiletter control sequences out of 15000+600000
  476881 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 128i,15n,122p,474b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,15n,122p,482b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mid_pre.xdv (9 pages, 251640 bytes).
+Output written on mid_pre.xdv (10 pages, 278116 bytes).

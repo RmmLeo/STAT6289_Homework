@@ -1,8 +1,8 @@
-PWD c:/RMM/STAT-6289/Midterm Project
+PWD c:/RMM/STAT-6289/Midterm Project/TexFile
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt
-INPUT c:/RMM/STAT-6289/Midterm Project/mid_pre.tex
+INPUT c:/RMM/STAT-6289/Midterm Project/TexFile/mid_pre.tex
 OUTPUT mid_pre.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1244,6 +1244,9 @@ INPUT Accuracy Tendency.png
 INPUT ./Accuracy Tendency2.png
 INPUT ./Accuracy Tendency2.png
 INPUT Accuracy Tendency2.png
+INPUT ./Code1.png
+INPUT ./Code1.png
+INPUT Code1.png
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
@@ -1254,6 +1257,9 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT ./code2.png
+INPUT ./code2.png
+INPUT code2.png
 OUTPUT mid_pre.nav
 OUTPUT mid_pre.toc
 OUTPUT mid_pre.snm
